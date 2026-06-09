@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Akai165/Akai165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Flavio Papini
+*trying to get through college with poor results* ☕💻
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🍵 (About Me)
+* 🐛 **Hobby:** MTG, Computers, mechanical keyboards
+* 🧠 **Learning:** C, Graphs, Data Structures, Python
+* 🎯 **2026 Goals:** Calculus 1, Coding Lab 2
+---
+
+### 📈 My Stats
+
+<div align="center">
+  <!-- Cambia IL_TUO_USERNAME con il tuo vero username di GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IL_TUO_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <p><i>Stay hydrated & commit often 💧</i></p>
+</div>
