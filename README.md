@@ -5,7 +5,7 @@
 
 </div>
 
----
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20my%20page&fontSize=50&fontAlignY=35&animation=twinkling)
 
 ### 🍵 (About Me)
 * 🐛 **Hobby:** MTG, Computers, mechanical keyboards
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Hi+there,+I Hate Calculus;Graphs and Algorithms;Izzet best color,+write+clean+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Hi+there,+I+Hate+Calculus;Graphs+and+Algorithms;Izzet+best+color,+write+clean+code" alt="Typing SVG" />
   </a>
 </p>
 
