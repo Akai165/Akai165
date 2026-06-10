@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Hi+there,+I+Hate+Calculus;Graphs+and+Algorithms;Izzet+best+color,+write+clean+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Hi+there,+I+Hate+Calculus;Graphs+and+Algorithms;Izzet+best+color" alt="Typing SVG" />
   </a>
 </p>
 
