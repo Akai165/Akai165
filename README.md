@@ -22,6 +22,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akai165&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+a+Dev;Turning+coffee+into+spaghetti+code;Stay+toxic,+write+clean+code" alt="Typing SVG" />
+  </a>
+</p>
+
 <div align="center">
   <p><i>Stay hydrated & commit often 💧</i></p>
 </div>
