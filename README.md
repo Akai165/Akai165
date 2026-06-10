@@ -5,7 +5,7 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20my%20page&fontSize=50&fontAlignY=35&animation=twinkling)
+---
 
 ### 🍵 (About Me)
 * 🐛 **Hobby:** MTG, Computers, mechanical keyboards
