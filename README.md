@@ -10,7 +10,7 @@
 ### 🍵 (About Me)
 * 🐛 **Hobby:** MTG, Computers, mechanical keyboards
 * 🧠 **Learning:** C, Graphs, Data Structures, Python
-* 🎯 **2026 Goals:** Calculus ✅​, Coding Lab 2 ⌛​
+* 🎯 **2026 Goals:** Calculus ✅​, Coding Lab 2 ​✅, Coding Paradigms ⌛
 ---
 
 <p align="center">
