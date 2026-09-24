@@ -10,7 +10,7 @@
 ### 🍵 (About Me)
 * 🐛 **Hobby:** MTG, Computers, mechanical keyboards
 * 🧠 **Learning:** OCaml, Java, OOP, Functional programming
-* 🎯 **2026 Goals:** Calculus ✅​, Coding Lab 2 ​✅, Coding Paradigms ⌛
+* 🎯 **2026 Goals:** Calculus ✅​, Coding Lab 2 ​✅, Coding Paradigms ✅, Linear Algebra ⌛
 ---
 
 <p align="center">
