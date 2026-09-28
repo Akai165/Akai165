@@ -27,9 +27,3 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akai165&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-
-
-
-<div align="center">
-  <p><i>Stay hydrated & commit often 💧</i></p>
-</div>
